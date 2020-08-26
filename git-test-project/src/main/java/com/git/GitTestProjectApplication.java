@@ -9,6 +9,7 @@ public class GitTestProjectApplication {
     public static void main(String[] args) {
         System.out.println("asdfadfasdf");
         System.out.println("clone add");
+        System.out.println("master 分支添加东西");
         SpringApplication.run(GitTestProjectApplication.class, args);
     }
 
