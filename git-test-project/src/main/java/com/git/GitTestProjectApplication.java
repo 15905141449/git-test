@@ -10,6 +10,7 @@ public class GitTestProjectApplication {
         System.out.println("asdfadfasdf");
         System.out.println("clone add");
         System.out.println("dev1 分支添加东西");
+        System.out.println("master 分支添加东西");
         SpringApplication.run(GitTestProjectApplication.class, args);
     }
 
